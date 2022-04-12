@@ -1,0 +1,12 @@
+D:\Proyectos\portfolio\Shared\bin\Debug\net6.0\portfolio.Shared.deps.json
+D:\Proyectos\portfolio\Shared\bin\Debug\net6.0\portfolio.Shared.dll
+D:\Proyectos\portfolio\Shared\bin\Debug\net6.0\ref\portfolio.Shared.dll
+D:\Proyectos\portfolio\Shared\bin\Debug\net6.0\portfolio.Shared.pdb
+D:\Proyectos\portfolio\Shared\obj\Debug\net6.0\portfolio.Shared.csproj.AssemblyReference.cache
+D:\Proyectos\portfolio\Shared\obj\Debug\net6.0\portfolio.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\portfolio\Shared\obj\Debug\net6.0\portfolio.Shared.AssemblyInfoInputs.cache
+D:\Proyectos\portfolio\Shared\obj\Debug\net6.0\portfolio.Shared.AssemblyInfo.cs
+D:\Proyectos\portfolio\Shared\obj\Debug\net6.0\portfolio.Shared.csproj.CoreCompileInputs.cache
+D:\Proyectos\portfolio\Shared\obj\Debug\net6.0\portfolio.Shared.dll
+D:\Proyectos\portfolio\Shared\obj\Debug\net6.0\ref\portfolio.Shared.dll
+D:\Proyectos\portfolio\Shared\obj\Debug\net6.0\portfolio.Shared.pdb
